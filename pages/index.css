@@ -133,43 +133,6 @@ html {
   color: #838383;
 }
 
-/* .card {
-  background-color: #fff;
-  border-radius: 6px;
-  padding: 32px 40px 20px 32px;
-  width: 360px;
-  height: 420px;
-  box-sizing: border-box;
-}
-
-.card__content {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-
-.card__title {
-  font-size: 20px;
-  line-height: 30px;
-  font-weight: 700;
-  margin: 0;
-}
-
-.card__text {
-  margin: 20px 0 0;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.card__footer {
-  margin: 0;
-  font-size: 14px;
-  line-height: 20px;
-  color: #838383;
-  margin-top: auto;
-} */
-
 .recipes {
   background-color: #0a2750;
   background-image: url("../images/background_recipes.svg");
