@@ -200,77 +200,6 @@ html {
   line-height: 30px;
 }
 
-.footer {
-  box-sizing: border-box;
-  display: flex;
-  flex-wrap: wrap;
-  background-color: #1f1f1f;
-  color: #fff;
-  margin: 0;
-  padding: 60px 80px;
-}
-
-.footer__columns {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-}
-
-.footer__column {
-  padding: 0;
-}
-
-.footer__column_content_hours {
-  margin: 0 0 0 auto;
-}
-
-.footer__column_content_social {
-  margin: 0 0 0 80px;
-}
-
-.footer__logo {
-  width: 58px;
-  height: 80px;
-}
-
-.footer__column-heading {
-  margin: 0 0 20px 0;
-  padding: 0;
-}
-
-.footer__list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.footer__list-item {
-  display: flex;
-  padding: 0 0 16px;
-}
-
-.footer__column-link {
-  display: flex;
-  flex-direction: row;
-  column-gap: 10px;
-  align-items: center;
-  color: white;
-  text-decoration: none;
-  padding: 0;
-}
-
-.footer__social-icon {
-  width: 16px;
-  height: 16px;
-  padding: 0;
-}
-
-.footer__copyright {
-  display: flex;
-  margin: 100px 0 0;
-  padding: 0;
-}
-
 .form__fieldset {
   padding: 0;
   max-width: 385px;
@@ -350,4 +279,74 @@ html {
   margin: 0px auto 120px;
   width: 100%;
   max-width: 385px;
+}
+
+.footer {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #1f1f1f;
+  color: #fff;
+  margin: 0;
+  padding: 60px 80px;
+}
+
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.footer__column {
+  padding: 0;
+}
+
+.footer__column_content_hours {
+  margin: 0 0 0 auto;
+}
+
+.footer__column_content_social {
+  margin: 0 0 0 80px;
+}
+
+.footer__logo {
+  width: 58px;
+  height: 80px;
+}
+
+.footer__column-heading {
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+.footer__list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__list-item {
+  display: flex;
+  padding: 0 0 16px;
+}
+
+.footer__column-link {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  padding: 0;
+}
+.footer__social-icon {
+  width: 16px;
+  height: 16px;
+  padding: 0;
+}
+
+.footer__copyright {
+  display: flex;
+  margin: 100px 0 0;
+  padding: 0;
 }
