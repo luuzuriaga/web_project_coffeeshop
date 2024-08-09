@@ -285,10 +285,11 @@ html {
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  background-color: #1f1f1f;
+  background-color: hsl(220, 97%, 13%);
   color: #fff;
   margin: 0;
   padding: 60px 80px;
+  overflow: hidden;
 }
 
 .footer__columns {
@@ -301,17 +302,34 @@ html {
   padding: 0;
 }
 
-.footer__column_content_hours {
-  margin: 0 0 0 auto;
-}
-
 .footer__column_content_social {
   margin: 0 0 0 80px;
 }
 
 .footer__logo {
-  width: 58px;
-  height: 80px;
+  width: 120px;
+  height: 60px;
+}
+
+.footer__logo-container {
+  position: relative;
+  display: inline-block;
+  width: 120px;
+  height: 60px;
+  z-index: 1;
+}
+
+.footer__logo-container::before {
+  content: "";
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  width: 300px;
+  height: 300px;
+  background-color: hsl(213, 79%, 48%);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
 }
 
 .footer__column-heading {
