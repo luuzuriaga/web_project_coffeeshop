@@ -11,6 +11,11 @@ Este proyecto es una representación digital de una cafetería y tienda de café
 
 El proyecto está organizado de la siguiente manera:
 
+![Triple Expresso](images/landing1.png)
+![Recetas](images/landing2.png)
+![Formulario](images/landing3.png)
+
+
 ```plaintext
 web_project_coffeeshop/
   ├── images/                      <- todas las imágenes
@@ -57,6 +62,3 @@ Lucero Uzuriaga Grados - GitHub
 © 2024 Lucero Uzuriaga Grados
 
 
-![Triple Expresso](images/landing1.png)
-![Recetas](images/landing2.png)
-![Formulario](images/landing3.png)
