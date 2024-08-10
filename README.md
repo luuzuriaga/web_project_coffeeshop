@@ -22,13 +22,20 @@ web_project_coffeeshop/
   ├── images/                      <- todas las imágenes
   ├── pages/
   │   └── index.css                <- estilos CSS de la página principal
+  ├── blocks/                      <- archivos CSS específicos de bloques
+  │   ├── footer.css
+  │   ├── form.css
+  │   ├── header.css
+  │   ├── nav.css
+  │   ├── page.css
+  │   ├── recipes.css
+  │   └── reservation.css
   ├── vendor/                      <- normalize.css
   ├── favicon.ico
   ├── index.html                   <- archivo HTML principal
   ├── README.md                    <- este archivo
   ├── .editorconfig                <- configuración de editor
   └── .gitignore                   <- archivos a ignorar en git
-
 
   Características
 
