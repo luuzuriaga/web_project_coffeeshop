@@ -14,6 +14,7 @@ El proyecto está organizado de la siguiente manera:
 ![Triple Expresso](images/landing1.png)
 ![Recetas](images/landing2.png)
 ![Formulario](images/landing3.png)
+![Footer](images/landing4.png)
 
 
 ```plaintext
