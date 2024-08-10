@@ -61,7 +61,7 @@ Durante este proyecto, aprendí a:
 
 Enlaces
 
-	•	Repositorio en GitHub
+	- [Repositorio en GitHub](https://github.com/luuzuriaga/web_project_coffeeshop)
 
 Autor
 
