@@ -47,6 +47,10 @@ web_project_coffeeshop/
 
 ## 🛠️ Tecnologías Utilizadas
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
 - **HTML5**: Estructura semántica del sitio web
 - **CSS3**: Estilización avanzada con uso de flexbox, grid y metodología BEM
 - **Normalize.css**: Normalización de estilos cross-browser
